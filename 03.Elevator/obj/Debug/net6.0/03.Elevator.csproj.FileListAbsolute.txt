@@ -1,0 +1,15 @@
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\bin\Debug\net6.0\03.Elevator.exe
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\bin\Debug\net6.0\03.Elevator.deps.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\bin\Debug\net6.0\03.Elevator.runtimeconfig.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\bin\Debug\net6.0\03.Elevator.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\bin\Debug\net6.0\03.Elevator.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\refint\03.Elevator.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\03.Elevator.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\03.Elevator\obj\Debug\net6.0\ref\03.Elevator.dll

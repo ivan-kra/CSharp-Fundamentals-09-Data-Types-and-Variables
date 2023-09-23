@@ -1,0 +1,15 @@
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\bin\Debug\net6.0\02.SumDigits.exe
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\bin\Debug\net6.0\02.SumDigits.deps.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\bin\Debug\net6.0\02.SumDigits.runtimeconfig.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\bin\Debug\net6.0\02.SumDigits.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\bin\Debug\net6.0\02.SumDigits.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\refint\02.SumDigits.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\02.SumDigits.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\02.SumDigits\obj\Debug\net6.0\ref\02.SumDigits.dll
