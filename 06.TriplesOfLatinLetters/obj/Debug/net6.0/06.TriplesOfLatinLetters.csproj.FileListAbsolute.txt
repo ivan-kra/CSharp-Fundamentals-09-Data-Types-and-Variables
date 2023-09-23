@@ -1,0 +1,15 @@
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.exe
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.deps.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\refint\06.TriplesOfLatinLetters.dll
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Desktop\C-SHARP\06.TriplesOfLatinLetters\obj\Debug\net6.0\ref\06.TriplesOfLatinLetters.dll
